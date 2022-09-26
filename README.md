@@ -1,5 +1,5 @@
 # Portfolio
-Collection of personal projects
+This is a collection of personal coding projects using a variety of styles and languages.
 ## License
 MIT License
 
