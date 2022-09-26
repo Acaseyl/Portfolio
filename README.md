@@ -1,5 +1,10 @@
 # Portfolio
 This is a collection of personal coding projects using a variety of styles and languages.
+## Website
+[Portfolio](https://acaseyl.github.io/Horiseon_Challenge01/)
+## Credits
+[Andrew Lawrence](https://www.github.com/acaseyl)
+
 ## License
 MIT License
 
