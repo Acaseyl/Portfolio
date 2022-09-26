@@ -4,7 +4,7 @@ This is a collection of personal coding projects using a variety of styles and l
 [Portfolio](https://acaseyl.github.io/Portfolio/)
 
 ## Screenshot
-![Screenshot.jpg](https://github.com/Acaseyl/Portfolio/blob/main/assets/Screenshot.JPG))
+![Screenshot.jpg](https://github.com/Acaseyl/Portfolio/blob/main/assets/Screenshot.JPG)
 
 ## Credits
 [Andrew Lawrence](https://www.github.com/acaseyl)
