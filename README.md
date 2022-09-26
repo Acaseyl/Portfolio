@@ -3,7 +3,7 @@ This is a collection of personal coding projects using a variety of styles and l
 ## Website
 [Portfolio](https://acaseyl.github.io/Portfolio/)
 
-##Screenshot
+## Screenshot
 [!Screenshot.jpg](https://postimg.cc/FYJWk4Pr)
 
 ## Credits
